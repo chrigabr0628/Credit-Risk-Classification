@@ -1,6 +1,6 @@
 # Credit-Risk-Classification
 
-Overview of the Analysis
+## Overview of the Analysis
 
 The purpose of this analysis was to identify the creditworthiness of borrowers. The financial information of this dataset was on loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, and total debt. The goal was to predict both the 0 (healthy loan) and 1 (high-risk loan) labels. In total, there were 75,036 healthy loans and 2,500 high risk loans.
 
