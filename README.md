@@ -5,10 +5,10 @@
 The purpose of this analysis was to identify the creditworthiness of borrowers. The financial information of this dataset was on loan size, interest rate, borrower income, debt to income, number of accounts, derogatory marks, and total debt. The goal was to predict both the 0 (healthy loan) and 1 (high-risk loan) labels. In total, there were 75,036 healthy loans and 2,500 high risk loans.
 
 The follwing steps were:
-Split the data into training and testing datasets by using train_test_split.
-Fit a logistic regression model by using the training data (X_train and y_train).
-Save the predictions on the testing data labels by using the testing feature data (X_test) and the fitted model.
-Evaluate the model’s performance by generating a confusion matrix and printing the classification report.
+split the data into training and testing datasets by using train_test_split.
+fit a logistic regression model by using the training data (X_train and y_train).
+save the predictions on the testing data labels by using the testing feature data (X_test) and the fitted model.
+evaluate the model’s performance by generating a confusion matrix and printing the classification report.
 
 I utilized methods such as LogisticRegression, train_test_split, confusion_matrix, classification_report, etc. to collect the necessary data.
 
